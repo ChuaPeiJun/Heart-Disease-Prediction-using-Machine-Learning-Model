@@ -1,11 +1,11 @@
-**Heart Disease Prediction using Machine Learning**
+# **Heart Disease Prediction using Machine Learning**
 
 **📋 Overview**
 
 This project applies machine learning algorithms to predict the likelihood of heart disease based on patient health data.
 **K-Nearest Neighbors (KNN), Decision Tree, and Support Vector Machine (SVM)**  were implemented and compared to identify the champion model with the best performance.
 
-**🎯 Objectives**
+## **🎯 Objectives**
 
 - Analyze a heart disease dataset to identify key factors affecting heart health.
 
@@ -15,7 +15,7 @@ This project applies machine learning algorithms to predict the likelihood of he
 
 - Provide an interpretable and data-driven solution for early heart disease detection.
 
-**🧠 Machine Learning Models**
+## **🧠 Machine Learning Models**
 | Model                            | Description                                       | Key Characteristics                                  |
 | -------------------------------- | ------------------------------------------------- | ---------------------------------------------------- |
 | **K-Nearest Neighbors (KNN)**    | Classifies based on the closest data points       | Simple, non-parametric, sensitive to feature scaling |
